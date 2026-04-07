@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "Hello World! - Testing CI/CD triggered using POll SCM" %></h2>
+<h2><%= "Hello World! - Testing CI/CD this is my second commit" %></h2>
 </body>
 </html>
